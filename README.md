@@ -10,7 +10,7 @@ Previously, we completed a a data analysis for a ride-sharing company called PyB
 Generally, the more urban the city type is, the larger the share of the fares. From our previous analysis, we also know that the more urban the area, the more rides and the more drivers. In our multi-line graph of fares over the four month period from January to April, 2019, a very clear pattern emerges which is consistent with the previous analysis. Urban cities have the highest share of fares, suburban cities the second most, and rural cities the smallest share of the fares. Below are the following: a snippet of the DataFrame of fares by city type,  the line graph, and the previous pie charts.
 
 ![DataFrame of graph data](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/DataFrame%20of%20fares%20by%20City%20Type.png)
-![multi- line graph](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/FareByType.png)
+![multi- line graph](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/Pyber_Fare_Summary.png)
 ![pie chart](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/Fig5.png)
 ![pie chart](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![pie chart](https://github.com/mgsrichard/PyBer_Analysis/blob/main/analysis/Fig7.png)
